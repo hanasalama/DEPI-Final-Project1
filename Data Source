@@ -1,0 +1,14 @@
+# Raw Data Source
+
+The raw data for this project, "U.S. Domestic Flights — 2015," was sourced from **Kaggle**.
+
+**Source Link:** [https://www.kaggle.com/datasets/usdot/flight-delays]
+
+### Dataset Description
+The analysis is based on three primary CSV files:
+*   `flights.csv`: Transactional data for each flight (over 5.8 million records).
+*   `airports.csv`: Dimension table with airport details.
+*   `airlines.csv`: Dimension table with airline names.
+
+### Note on File Size
+Due to the large size of the `flights.csv` file (5.8M+ records), the raw data files are **not** included in this repository. Please download the original dataset from the link above to reproduce the data cleaning and analysis steps outlined in the `Final_Project_DOC.pdf`.
