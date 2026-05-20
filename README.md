@@ -22,8 +22,8 @@ The interactive Power BI dashboard and the full report detail the following key 
 4.  **Recommendations:** For passengers, booking **morning flights** and avoiding travel on Thursdays/Fridays is recommended to minimize delay risk [1].
 
 ## How to View the Project
-1.  **Power BI Dashboard:** Download the `skylinestatsfinal.pbix` file from the `reports/` folder. You will need **Power BI Desktop** to open and interact with the dashboard.
-2.  **Documentation:** The full project details, methodology, data model (Star Schema), and detailed analysis are available in the `Final_Project_DOC.pdf` file.
+1.  **Power BI Dashboard:** Download the `skylinestatsfinal.pbix` file using the link attached https://drive.google.com/file/d/1-V0un2FwdA8ZqRQ2tBqznIWV8DODQfSo/view?usp=sharing. You will need **Power BI Desktop** to open and interact with the dashboard.
+2.  **Documentation:** The full project details, methodology, data model (Star Schema), and detailed analysis are available in the `Documentation.pdf` file.
 
 ## Data Source
 The data for this project was sourced from **Kaggle** [2]. The dataset includes three primary files: `flights.csv` (5.8M+ records), `airports.csv`, and `airlines.csv`.
